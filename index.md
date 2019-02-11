@@ -17,11 +17,12 @@ A single static page site with a full screen image, to get online until your ful
 ## Start
 It's easy, [install Jekyll](https://jekyllrb.com/docs/installation/), clone this folder, ```cd soon``` then run ```jekyll serve``` to check how it looks locally (localhost:4000). Self host or use [GitHub pages](https://pages.github.com) to publish the site.
 
-You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in _layouts ```default.html```.
-Read the [repo](https://github.com/YJPL/soon/). Bacground image are located in ` `ìmages```.
+You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in ```_layouts/default.html```. Background image are located in ```images```.
 
 ***
 
 ## Almost ready
 
-Since you wanted to install Jekyll anyway, *Soon* comes with all the usual starting folders to run a complete Jekyll site or blog. This means you can style and test your site in the background. Once your are happy with your layouts for posts, pages, collections and anything else in your site assets you can just overwrite this index. Get [Soon](https://github.com/YJPL/soon/).
+Since you wanted to install Jekyll anyway, *Soon* comes with all the usual starting folders to run a complete Jekyll site or blog. This means you can style and test your site in the background. Once your are happy with your layouts for posts, pages, collections and anything else in your site assets you can just overwrite this index.
+
+Get [Soon](https://github.com/YJPL/soon/).
