@@ -2,141 +2,154 @@ head {
 }
 
 body {
-			border-top: 6px solid #000;
-			color: transparent;
-			margin: 0 auto 6px;
-			padding: 0;
-		  height: 100%;
-		  overflow: visible;
-		}
+	border-top: 6px solid #000;
+	color: transparent;
+	margin: 0 auto 6px;
+	padding: 0;
+	height: 100%;
+	overflow: visible;
+	}
 
-		#bg {
-  	  position: fixed;
-		  top: -50%;
-		  left: -50%;
-		  width: 200%;
-		  height: 200%;
-		}
+#bg {
+  	position: fixed;
+	top: -50%;
+	left: -50%;
+	width: 200%;
+	height: 200%;
+	}
 
-		#bg img {
-      background-size: cover;
-      height: 100%;
-      overflow: visible;
-		  position: absolute;
-		  top: 0;
-		  left: 0;
-		  right: 0;
-		  bottom: 0;
-		  margin: 0 auto;
-		  min-width: 50%;
-		  min-height: 50%;
-		}
-		#container {
-			margin: 20px auto;
-			max-width: 600px;
-			width: 60%;
-			min-width: 260px;
-			margin: 10px auto 0 auto;
-			text-align: left;
-			position: relative;
-			padding: 25px;
-			background: transparent url(img/#black50.png);
-			background: rgba(255,255,255,0.24) none;
-			-moz-border-radius: 12px;
-			-webkit-border-radius: 4px;
-			border-radius: 4px;
+#bg img {
+	background-size: cover;
+	height: 100%;
+	overflow: visible;
+	position: absolute;
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	margin: 0 auto;
+	min-width: 50%;
+	min-height: 50%;
+	}
+	
+#container {
+	margin: 20px auto;
+	max-width: 600px;
+	width: 60%;
+	min-width: 260px;
+	margin: 10px auto 0 auto;
+	text-align: left;
+	position: relative;
+	padding: 25px;
+	background: transparent url(img/#black50.png);
+	background: rgba(255,255,255,0.24) none;
+	-moz-border-radius: 12px;
+	-webkit-border-radius: 4px;
+	border-radius: 4px;
 	/* Scale origin */
-		}
-		body {
-			font-family: -apple-system, BlinkMacSystemFont,
-               'avenir next', avenir,
-               'helvetica neue', helvetica,
-               ubuntu,
-               roboto, noto,
-               'segoe ui', arial,
-               sans-serif;
-			font-size: 16px; /* Scale origin */
-			color: #000000;
-			line-height: 1.5;
-			}
+	}
 
-		h1 {
-			margin: 0;
-			font-size: 48px;
-			line-height: 1.5;
-			font-weight: 700;
-			text-transform: uppercase;
-		}
-		h2 {
-			margin: 0;
-			font-size: 24px;
-			line-height: 1.5;
-			font-weight: 600;
-			letter-spacing: 0.6.em;
+body {
+	font-family: -apple-system, BlinkMacSystemFont,
+	'avenir next', avenir,
+        'helvetica neue', helvetica,
+	ubuntu,
+	roboto, noto,
+	'segoe ui', arial,
+	sans-serif;
+	font-size: 16px; /* Scale origin */
+	color: #000000;
+	line-height: 1.5;
+	}
 
-		}
-		h3 {
-			margin: 0;
-			font-size: 18px;
-			line-height: 1.5;
-			font-weight: 600;
-			letter-spacing: 0.6.em;
-			color: #000000;
-			}
-		p {
-			margin: 16px 0 0;
-		}
-		a {
-			color:#357edd;
-			text-decoration: none;
-		}
-		a:visited{
-			color:#96ccff;
-  		}
-		a:hover{
-			color:#00449e;
-  		}
-  		a:focus{
-	  		color:#cdecff;
-	  	}
-	  	a:active{
-			color:#001b44;
-		}
-		.task-list {
-					list-style: none;
-}
-		/**
+h1 {
+	margin: 0;
+	font-size: 48px;
+	line-height: 1.5;
+	font-weight: 700;
+	text-transform: uppercase;
+	}
+
+h2 {
+	margin: 0;
+	font-size: 24px;
+	line-height: 1.5;
+	font-weight: 600;
+	letter-spacing: 0.6.em;
+	}
+
+h3 {
+	margin: 0;
+	font-size: 18px;
+	line-height: 1.5;
+	font-weight: 600;
+	letter-spacing: 0.6.em;
+	color: #000000;
+	}
+
+p {
+	margin: 16px 0 0;
+	}
+
+a {
+	color:#357edd;
+	text-decoration: none;
+	}
+
+a:visited{
+	color:#96ccff;
+  	}
+
+a:hover{
+	color:#00449e;
+  	}
+
+a:focus{
+	color:#009eff;
+	}
+
+a:active{
+	color:#001b44;
+	}
+
+.task-list {
+	list-style: none;
+	}
+		
+/**
  * Site footer
  */
+
 .site-footer {
-  padding: 0;
-}
+	padding: 0;
+	}
 
 .footer-heading {
-  margin-bottom: 1em;
-}
+	margin-bottom: 1em;
+	}
 
 .contact-list {
 	list-style: none;
-  margin-left: 0;
-}
+	margin-left: 0;
+	}
+
 .social-media-list {
 	font-size: 16px;
-  list-style: none;
-  margin-left: 0;
+	list-style: none;
+	margin-left: 0;
 }
 
 .contact-list a,
 .social-media-list a {
 	color: #357edd;
 	text-decoration: none;
-}
+	}
 
 .contact-list a:hover,
 .social-media-list a:hover {
 	color: #357edd;
-}
+	}
 
 .social-media-list .icon {
 	vertical-align: text-top;
-}
+	}
