@@ -1,7 +1,3 @@
-# soon
-
-*Coming soon page for Jekyll*
-
 # Soon
 
 A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
