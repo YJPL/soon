@@ -22,3 +22,12 @@ You just need to change ```_config``` with your contact and site information and
 The sooner you start building your site the better. Since you wanted to install Jekyll anyway, *Soon* comes with all the usual starting folders to run a complete Jekyll site or blog. This means you can publish your *Soon* page and restyle, write and test your site in the background. Once your are happy with your layouts for posts, pages, collections and anything else in your site assets you can just overwrite everything and push your live site.
 
 Get [Soon](https://github.com/YJPL/soon/).
+
+***
+***
+
+# Sites using Soon or that have used Soon at some point
+
+
+
+Are you using Soon? [Let me know!](https://github.com/YJPL/soon/edit/master/README.md)
