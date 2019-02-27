@@ -1,6 +1,6 @@
 # Soon
 
-A simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
+A super simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/).
 
 ## What's in it?
 
