@@ -9,13 +9,13 @@ A single static page with a full screen image. Remember those *under constructio
 ***
 
 ## Start Soon
-It's easy, [install Jekyll](https://jekyllrb.com/docs/installation/), clone this folder, ```cd soon``` then run ```jekyll serve``` to check how it looks locally (localhost:4000). Self host or use [GitHub pages](https://pages.github.com) to publish the site.
+It's easy. [Install Jekyll](https://jekyllrb.com/docs/installation/), clone this folder, ```cd soon``` then run ```jekyll serve``` to check how it looks locally (localhost:4000). Self-host or use [GitHub pages](https://pages.github.com) to publish the site.
 
-You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in ```_layouts/default.html```. Background image are located in ```images```.
+You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in ```_layouts/default.html```. The background image is located in ```images```.
 
 ***
 
-The sooner you start building your site the better. Since you wanted to install Jekyll anyway, *Soon* comes with all the usual starting folders to run a complete Jekyll site or blog. This means you can publish your *Soon* page and restyle, write and test your site in the background. Once your are happy with your layouts for posts, pages, collections and anything else in your site assets you can just overwrite everything and push your live site.
+The sooner you start building your site the better. Since you wanted to install Jekyll anyway, *Soon* comes with all the usual starting folders to run a complete Jekyll site or blog. This means you can publish your *Soon* page and restyle, write and test your site in the background. Once you are happy with your layouts for posts, pages, collections and anything else in your site assets you can just overwrite everything and push your live site.
 
 Get [Soon](https://github.com/YJPL/soon/).
 
