@@ -27,7 +27,7 @@ Get [Soon](https://github.com/YJPL/soon/).
 - [alternatyves.com](https://alternatyves.com)
 
 <figure>
-<a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/alternatyves/master/img/Soon_Screen-Shot-2019-02-18-at-14.44.01.png"/></a>
+<a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/soon-screenshots/master/Soon_Screen-Shot-2019-02-18-at-14.44.01.png"/></a>
 </figure>
 
 Are you using Soon? [Let me know!](https://github.com/YJPL/soon/edit/master/README.md)
