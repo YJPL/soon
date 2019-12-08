@@ -4,7 +4,7 @@ A super simple *coming soon* page built for [Jekyll](https://jekyllrb.com/docs/)
 
 ## What's in it?
 
-A single static page with a full screen image. Remember those *under construction* sites? The point is to have a contact page for a few hours or a few days while you are building your amazing site.
+Soon is a single static page with a full-screen image, nothing more. Remember those *under construction* sites? The point is to show a quick message or a temporary contact page to your visitors. Use this template for a few hours to a few days while you are building your site in the background. Since the page comes with a Jekyll environment, you can host it for free on GitHub.
 
 ***
 
