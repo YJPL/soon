@@ -30,4 +30,10 @@ Get [Soon](https://github.com/YJPL/soon/).
 <a href="https://alternatyves.com"><img src="https://raw.githubusercontent.com/YJPL/soon-screenshots/master/Soon_Screen-Shot-2019-02-18-at-14.44.01.png"/></a>
 </figure>
 
+- [Baixada Santista Game Dev (BSGD)](https://bsgd-sp.github.io)
+
+<figure>
+<a href="https://bsgd-sp.github.io"><img src="https://raw.githubusercontent.com/bsgd-sp/bsgd-sp.github.io/master/images/Screenshot_2020-03-13%20https%20bsgd-sp%20github%20io.png"/></a>
+</figure>
+
 Are you using Soon? [Let me know!](https://github.com/YJPL/soon/edit/master/README.md)
