@@ -20,9 +20,15 @@ The sooner you start building your site the better. Since you wanted to install 
 Download [Soon](https://github.com/YJPL/soon/archive/master.zip).
 
 ***
+
+## Screenshot
+
+![Soon for Jekyll, screenshot](https://raw.githubusercontent.com/YJPL/soon-screenshots/master/Soon-Screen-Shot-2020-06-25-at-16.06.28.png)
+
+***
 ***
 
-# Sites using Soon or that have used Soon at some point
+## Sites using Soon or that have used Soon at some point
 
 - [alternatyves.com](https://alternatyves.com)
 
