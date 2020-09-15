@@ -11,7 +11,10 @@ Soon is a single static page with a full-screen image, nothing more. Remember th
 ## Start Soon
 It's easy. [Install Jekyll](https://jekyllrb.com/docs/installation/), clone this folder, ```cd soon``` then run ```bundle exec jekyll serve``` to check how it looks locally (localhost:4000). Self-host or use [GitHub pages](https://pages.github.com) to publish the site.
 
-You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in ```_layouts/default.html```. The background image is located in ```images```.
+You just need to change ```_config``` with your contact and site information and ```index.md``` to get the page up and running. Although it is just a starting point and you can change pretty much anything else. If you change the background image, don't forget to link the new image in ```_layouts/default.html```. The background image is located in ```images```. 
+The styling is a simple CSS file ```main.css```, located in ```assets```, no CSS framework used, you can change anything you like here. 
+
+You can configure [a custom domain for your GitHub Pages site](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site), read more about [custom domains configuration with GitHub Pages](https://docs.github.com/en/github/working-with-github-pages/about-custom-domains-and-github-pages) and [how to set up a CNAME file and update DNS records](https://docs.github.com/en/github/working-with-github-pages/managing-a-custom-domain-for-your-github-pages-site).
 
 ***
 
