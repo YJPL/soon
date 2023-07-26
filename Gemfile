@@ -7,8 +7,9 @@ source "https://rubygems.org"
 #     bundle exec jekyll serve
 #
 # This will help ensure the proper Jekyll version is running.
+# Because this repo runs on an older Jekyll version whitelisted by github-pages. If you don't use githup-pages, please use Jekyll's latest version.
 # Happy Jekylling!
-gem "jekyll", "~> 3.9.0"
+gem "jekyll", "~> 3.9.3"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
