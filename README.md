@@ -28,7 +28,8 @@ Download [Soon](https://github.com/YJPL/soon/archive/master.zip).
 
 ![Soon for Jekyll, screenshot](https://raw.githubusercontent.com/YJPL/soon-screenshots/master/Soon-Screen-Shot-2020-06-25-at-16.06.28.png)
 
-***
+***<img width="1792" alt="Soon-Screen-Shot-2025-02-27 at 7 35 27 PM" src="https://github.com/user-attachments/assets/eed7d22b-192a-40f0-90e7-a71958a0e7ba" />
+
 ***
 
 ## Sites using Soon or that have used Soon at some point
